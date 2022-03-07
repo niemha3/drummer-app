@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drummer-app/static/css/main.501808ea.css",
+    "main.js": "/drummer-app/static/js/main.788d1200.js",
+    "static/js/787.3fd0aea8.chunk.js": "/drummer-app/static/js/787.3fd0aea8.chunk.js",
+    "static/media/Tourmaline-Bold.woff": "/drummer-app/static/media/Tourmaline-Bold.ca9bcc599d547c6cbce6.woff",
+    "index.html": "/drummer-app/index.html",
+    "main.501808ea.css.map": "/drummer-app/static/css/main.501808ea.css.map",
+    "main.788d1200.js.map": "/drummer-app/static/js/main.788d1200.js.map",
+    "787.3fd0aea8.chunk.js.map": "/drummer-app/static/js/787.3fd0aea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501808ea.css",
+    "static/js/main.788d1200.js"
+  ]
+}
